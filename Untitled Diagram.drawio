@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T19:52:26.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="uSf8vkGnybGF6rjY9H42" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-28T20:06:21.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="CYXU62ncxmJpckeMSdgK" version="20.3.7" type="github">
   <diagram id="_aQSk68fNOLD1SiQQVQj" name="Page-1">
     <mxGraphModel dx="770" dy="573" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="500" math="0" shadow="0">
       <root>
@@ -59,13 +59,13 @@
         <mxCell id="P1x7vm0chefwzOuEZskG-62" value="Port ID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="242" y="237" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P1x7vm0chefwzOuEZskG-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="P1x7vm0chefwzOuEZskG-63" value="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="285" y="237" width="37" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P1x7vm0chefwzOuEZskG-64" value="Port ID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="243" y="163" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P1x7vm0chefwzOuEZskG-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="P1x7vm0chefwzOuEZskG-65" value="2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="286" y="163" width="37" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P1x7vm0chefwzOuEZskG-66" value="&lt;font&gt;DP&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontColor=#00CC00;fontStyle=1" parent="1" vertex="1">
@@ -188,7 +188,7 @@
         <mxCell id="P1x7vm0chefwzOuEZskG-28" value="Bridge ID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="38" y="212" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P1x7vm0chefwzOuEZskG-134" value="7000.026cb79d0345" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Courier New;fontSize=10;align=left;" parent="1" vertex="1">
+        <mxCell id="P1x7vm0chefwzOuEZskG-134" value="7000.026cb79d0345,1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Courier New;fontSize=10;align=left;" parent="1" vertex="1">
           <mxGeometry x="98" y="126" width="197" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P1x7vm0chefwzOuEZskG-135" value="Designated bridge ID &amp;amp; port" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -200,7 +200,7 @@
         <mxCell id="P1x7vm0chefwzOuEZskG-137" value="Network segment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="198" y="280" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P1x7vm0chefwzOuEZskG-138" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Courier New;fontSize=10;align=left;" parent="1" vertex="1">
+        <mxCell id="P1x7vm0chefwzOuEZskG-138" value="8000.02b80bdf7d4b, 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Courier New;fontSize=10;align=left;" parent="1" vertex="1">
           <mxGeometry x="98" y="309" width="197" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P1x7vm0chefwzOuEZskG-139" value="Designated bridge ID &amp;amp; port" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -215,7 +215,7 @@
         <mxCell id="P1x7vm0chefwzOuEZskG-142" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Courier New;fontSize=10;align=left;" parent="1" vertex="1">
           <mxGeometry x="608" y="309" width="197" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P1x7vm0chefwzOuEZskG-143" value="7000.026cb79d0345" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Courier New;fontSize=10;align=left;" parent="1" vertex="1">
+        <mxCell id="P1x7vm0chefwzOuEZskG-143" value="7000.026cb79d0345,2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Courier New;fontSize=10;align=left;" parent="1" vertex="1">
           <mxGeometry x="608" y="126.00000000000003" width="197" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P1x7vm0chefwzOuEZskG-144" value="Designated bridge ID &amp;amp; port" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
